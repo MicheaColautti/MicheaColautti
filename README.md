@@ -20,7 +20,7 @@
 - 💻 My site:            [check me out](http://samtinfo.ch/18colmic/)
 - 📧 My email:	          **michea.colautti@samtrevano.ch**
 
---
+---
 ### Other stuff
 - 🍎 Love Apple ecosystem 
 - 🦾 Half man half robot 
