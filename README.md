@@ -42,6 +42,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MicheaColautti&theme=radical&show_icons=true&include_all_commits=true&)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MicheaColautti&layout=compact&theme=radical&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MicheaColautti&layout=compact&theme=radical&show_icons=true&langs_count=10)
 
 
