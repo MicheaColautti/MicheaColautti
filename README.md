@@ -31,7 +31,8 @@
 
 --
 
-### Other stuff
+
+### Some other stuff
 - 🍎 Love Apple ecosystem 
 - 🦾 Half man half robot 
 - 🍺 I only drink beer on day that hands in **y** 
