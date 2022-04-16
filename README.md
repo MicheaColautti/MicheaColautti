@@ -35,6 +35,6 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MicheaColautti&theme=radical)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MicheaColautti&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MicheaColautti&theme=radical&nclude_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MicheaColautti&layout=compact&theme=radical)
