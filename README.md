@@ -6,14 +6,14 @@
 * [Dino Run and Jump](https://github.com/MicheaColautti/dino-run-and-jump)
 
 
-### 👨🏼‍💻 Developed 
+### 👨🏼‍💻 Developed
 - [Drone](https://github.com/MicheaColautti/Drone)
 - [Drone 2.0](https://github.com/MicheaColautti/Drone2.0)
 
 
 ---
 
-### About me 
+### About me
 
 - 🎓 My school:           SAM Trevano
 - 💻 My site:            [check me out](http://samtinfo.ch/18colmic/)
