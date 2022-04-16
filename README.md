@@ -14,7 +14,7 @@
 [![Drone2.0](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=Drone-2.0)](https://github.com/MicheaColautti/Drone2.0)
 
 
-#### Original Projects
+### Original Projects
 
 - [Drone](https://github.com/LuMug/Drone)
 - [Drone2.0](https://github.com/LuMug/Drone-2.0)
