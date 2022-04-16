@@ -1,19 +1,20 @@
-## Hi, I'm Michea
-### Have a cookie 🍪
+## Hi, I'm Michea, have a cookie 🍪
 
 ### 🔧 Current project
 
-* [Dino Run and Jump](https://github.com/MicheaColautti/dino-run-and-jump)
 
+[Dino Run and Jump](https://github.com/MicheaColautti/dino-run-and-jump)
+ 
 
-### 👨🏼‍💻 Developed
+### 👨🏼‍💻 Developed 
 - [Drone](https://github.com/MicheaColautti/Drone)
 - [Drone 2.0](https://github.com/MicheaColautti/Drone2.0)
 
 
 ---
 
-### About me
+
+### About me 
 
 - 🎓 My school:           SAM Trevano
 - 💻 My site:            [check me out](http://samtinfo.ch/18colmic/)
@@ -21,9 +22,10 @@
 
 --
 ### Other stuff
-- Love Apple ecosystem 🍎
-- Half man half robot 🦾
-- For you 💙: ac43398f44d6125722d33485fcc9a4ca7143ad1a
+- 🍎 Love Apple ecosystem 
+- 🦾 Half man half robot 
+- 🍺 I only drink beer on day that hands in **y** 
+- 💙 `ac43398f44d6125722d33485fcc9a4ca7143ad1a`
 
 ---
 ---
