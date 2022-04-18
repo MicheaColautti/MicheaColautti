@@ -20,7 +20,7 @@
 - [Drone2.0](https://github.com/LuMug/Drone-2.0)
 
 
-
+<hr>
 
 
 ## About me 
@@ -34,7 +34,7 @@
 - 💙 `ac43398f44d6125722d33485fcc9a4ca7143ad1a`
 
 
----
+<hr>
 
 ## Some stats
 
