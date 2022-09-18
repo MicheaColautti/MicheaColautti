@@ -2,7 +2,7 @@
 
 ## 🔧 Current project
 
-###Gestione Campo Estivo
+### Gestione Campo Estivo
 
 ## 👨🏼‍💻 Developed 
 
