@@ -2,12 +2,16 @@
 
 ## 🔧 Current project
 
-### Gestione Campo Estivo
+### Gestione Campo Estivo - Versione 2.0
 
 ## 👨🏼‍💻 Developed 
 
 ##### 2022
 [![Dino Run and jump](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=dino-run-and-jump)](https://github.com/MicheaColautti/dino-run-and-jump)
+
+[![Gestione Campo Estivo](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=GestioneCampoEstivo)](https://github.com/MicheaColautti/GestioneCampoEstivo)
+
+
 
 ##### 2021
 [![Drone2.0](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=Drone-2.0)](https://github.com/MicheaColautti/Drone2.0)
