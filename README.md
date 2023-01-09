@@ -38,7 +38,6 @@
 - 🍎 Love Apple ecosystem 
 - 🦾 Half man half robot 
 - 🍺 I only drink beer on days that ends in **y** 
-- 💙 `ac43398f44d6125722d33485fcc9a4ca7143ad1a`
 
 
 <hr>
