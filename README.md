@@ -33,8 +33,9 @@
 ## About me 
 
 - 🎓 My school:           SAM Trevano
-- 💻 My site:            [Check me out](http://samtinfo.ch/18colmic/)
+- 💻 My website:          [Check me out](http://samtinfo.ch/18colmic/)
 - 📧 My email:	          **michea.colautti@samtrevano.ch**
+
 - 🍎 Love Apple ecosystem 
 - 🦾 Half man half robot 
 - 🍺 I only drink beer on days that ends in **y** 
