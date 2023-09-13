@@ -6,6 +6,11 @@
 
 ## 👨🏼‍💻 Developed 
 
+
+##### 2023 
+- Pianificazione Presentazioni Progetti
+- Gestione Campo Estivo - Versione 2.0
+
 ##### 2022
 [![Dino Run and jump](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=dino-run-and-jump)](https://github.com/MicheaColautti/dino-run-and-jump)
 
