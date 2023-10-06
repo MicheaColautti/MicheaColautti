@@ -7,9 +7,10 @@
 ## 👨🏼‍💻 Developed 
 
 ##### 2023 
+[![Pianificazione Presentazioni Progetti](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=PianificazionePresentazioniProgetti)](https://github.com/MicheaColautti/PianificazionePresentazioniProgetti)
 
-- Pianificazione Presentazioni Progetti
-- Gestione Campo Estivo - Versione 2.0
+[![Gestione Campo Estivo - Versione 2.0](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=GestioneCampoEstivoV2)](https://github.com/MicheaColautti/GestioneCampoEstivoV2)
+
 
 ##### 2022
 [![Dino Run and jump](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=dino-run-and-jump)](https://github.com/MicheaColautti/dino-run-and-jump)
