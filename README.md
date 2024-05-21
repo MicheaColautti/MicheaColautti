@@ -38,9 +38,9 @@
 
 ## About me 
 
-- 🎓 My school:           SAM Trevano
+- 🎓 My school:           SUPSI - DTI Viganello, Bachelor Computer Science Engineering
 - 💻 My website:          [Check me out](http://samtinfo.ch/18colmic/)
-- 📧 My email:	          **michea.colautti@samtrevano.ch**
+- 📧 My email:	          **michea.colautti@student.supsi.ch**
 
 - 🍎 Love Apple ecosystem 
 - 🦾 Half man half robot 
