@@ -2,9 +2,26 @@
 
 ## 🔧 Current project
 
+
+[![Monitoraggio luce ambientale](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=MovieStat)](https://github.com/MicheaColautti/MovieStat/settings)
+
 - Jarvis
 
+
+
 ## 👨🏼‍💻 Developed 
+
+
+##### 2024
+[![Monitoraggio luce ambientale](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=MonitoraggioLuceAmbientale)](https://github.com/MicheaColautti/MonitoraggioLuceAmbientale)
+
+[![Figure panini](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=FigurePanini)](https://github.com/MicheaColautti/FigurePanini/settings)
+
+[![Dino Run and jump](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=dino-run-and-jump)](https://github.com/MicheaColautti/dino-run-and-jump)
+
+- Jarvis
+ 
+
 
 ##### 2023 
 [![Pianificazione Presentazioni Progetti](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=PianificazionePresentazioniProgetti)](https://github.com/MicheaColautti/PianificazionePresentazioniProgetti)
