@@ -3,14 +3,16 @@
 ## 🔧 Current project
 
 
-[![Monitoraggio luce ambientale](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=MovieStat)](https://github.com/MicheaColautti/MovieStat/settings)
+
 
 - Jarvis
-
+- Wallet with SolidPod
 
 
 ## 👨🏼‍💻 Developed 
 
+##### 2024
+[![Monitoraggio luce ambientale](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=MovieStat)](https://github.com/MicheaColautti/MovieStat/settings)
 
 ##### 2024
 [![Monitoraggio luce ambientale](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=MonitoraggioLuceAmbientale)](https://github.com/MicheaColautti/MonitoraggioLuceAmbientale)
