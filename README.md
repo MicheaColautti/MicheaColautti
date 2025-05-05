@@ -4,15 +4,20 @@
 
 
 
-
-- Jarvis
 - Wallet with SolidPod
+- MineSweeper
+- WebApp - Card Store
+- Jarvis
 
 
 ## 👨🏼‍💻 Developed 
 
-##### 2024
-[![Monitoraggio luce ambientale](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=MovieStat)](https://github.com/MicheaColautti/MovieStat/settings)
+##### 2025
+
+
+[![DataScience-Prog1](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=DataScience-Prog1)](https://github.com/MicheaColautti/DataScience-Prog1/settings)
+
+[![Movie Sats](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=MovieStat)](https://github.com/MicheaColautti/MovieStat/settings)
 
 ##### 2024
 [![Monitoraggio luce ambientale](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=MonitoraggioLuceAmbientale)](https://github.com/MicheaColautti/MonitoraggioLuceAmbientale)
