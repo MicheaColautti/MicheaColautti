@@ -4,16 +4,18 @@
 
 
 
-- Wallet with SolidPod
 - MineSweeper
 - WebApp - Card Store
+- DataScience-Prog2
 - Jarvis
+
 
 
 ## 👨🏼‍💻 Developed 
 
 ##### 2025
 
+- Wallet with SolidPod
 
 [![DataScience-Prog1](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=DataScience-Prog1)](https://github.com/MicheaColautti/DataScience-Prog1/settings)
 
