@@ -1,89 +1,92 @@
-# Hi, I'm Michea
+# Hi, I'm Michea 👋
 
-## 🔧 Current project
+## 🚀 Current Project
+- **Jarvis**
 
-- Jarvis
+---
 
+## 💼 Favourite Project
 
-## 👨🏼‍💻 Developed 
-
-##### 2025
-
-[![DataScience-Prog2](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=WalletWithSolidPod-PerkPocket)](https://github.com/MicheaColautti/DataScience-Prog1/settings)
-
-
-[![DataScience-Prog2](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=WebAppCardStore)](https://github.com/MicheaColautti/DataScience-Prog1/settings)
-
-[![DataScience-Prog2](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=MineSweeper)](https://github.com/MicheaColautti/DataScience-Prog1/settings)
-
-[![DataScience-Prog2](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=DataScience-Proj2)](https://github.com/MicheaColautti/DataScience-Prog1/settings)
-
-[![DataScience-Prog1](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=DataScience-Proj1)](https://github.com/MicheaColautti/DataScience-Prog1/settings)
-
-[![Movie Sats](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=MovieStat)](https://github.com/MicheaColautti/MovieStat/settings)
-
-##### 2024
-
-[![Monitoraggio luce ambientale](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=MonitoraggioLuceAmbientale)](https://github.com/MicheaColautti/MonitoraggioLuceAmbientale)
-
-[![Figure panini](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=FigurePanini)](https://github.com/MicheaColautti/FigurePanini/settings)
-
-[![Dino Run and jump](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=dino-run-and-jump)](https://github.com/MicheaColautti/dino-run-and-jump)
-
-- Jarvis
-
-- Monopoly Ascii
- 
-
-##### 2023 
-[![Pianificazione Presentazioni Progetti](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=PianificazionePresentazioniProgetti)](https://github.com/MicheaColautti/PianificazionePresentazioniProgetti)
-
-[![Gestione Campo Estivo - Versione 2.0](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=GestioneCampoEstivoV2)](https://github.com/MicheaColautti/GestioneCampoEstivoV2)
-
-
-##### 2022
-[![Dino Run and jump](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=dino-run-and-jump)](https://github.com/MicheaColautti/dino-run-and-jump)
-
-[![Gestione Campo Estivo](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=GestioneCampoEstivo)](https://github.com/MicheaColautti/GestioneCampoEstivo)
+✨ **Wallet with SolidPod – [PerkPocket](https://github.com/MicheaColautti/WalletWithSolidPod-PerkPocket)**  
+A personal favourite: a modern wallet manager built on SolidPod.  
+[![PerkPocket](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=WalletWithSolidPod-PerkPocket&theme=radical)](https://github.com/MicheaColautti/WalletWithSolidPod-PerkPocket)
 
 
 
-##### 2021
-[![Drone2.0](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=Drone-2.0)](https://github.com/MicheaColautti/Drone2.0)
-
-##### 2020
-[![Drone](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=Drone)](https://github.com/MicheaColautti/Drone)
-
-### Original Projects
+## 👨🏼‍💻 Other Projects
 
 
-##### Projects developed on [LuMug](https://github.com/LuMug) repo
-- [Drone](https://github.com/LuMug/Drone)
-- [Drone2.0](https://github.com/LuMug/Drone-2.0)
+**2025**
+
+[![WebAppCardStore](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=WebAppCardStore&theme=radical)](https://github.com/MicheaColautti/WebAppCardStore)  
+[![MineSweeper](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=MineSweeper&theme=radical)](https://github.com/MicheaColautti/MineSweeper)  
+[![DataScience-Proj2](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=DataScience-Proj2&theme=radical)](https://github.com/MicheaColautti/DataScience-Proj2)  
+[![DataScience-Proj1](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=DataScience-Proj1&theme=radical)](https://github.com/MicheaColautti/DataScience-Proj1)  
+[![MovieStat](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=MovieStat&theme=radical)](https://github.com/MicheaColautti/MovieStat)  
 
 
-<hr>
+
+**2024**
+
+[![Monitoraggio luce ambientale](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=MonitoraggioLuceAmbientale&theme=radical)](https://github.com/MicheaColautti/MonitoraggioLuceAmbientale)  
+[![Figure Panini](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=FigurePanini&theme=radical)](https://github.com/MicheaColautti/FigurePanini)  
+[![Dino Run and Jump](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=dino-run-and-jump&theme=radical)](https://github.com/MicheaColautti/dino-run-and-jump)  
+- Monopoly Ascii  
+- Jarvis  
 
 
-## About me 
 
-- 🎓 My school:           SUPSI - DTI Viganello, Bachelor Computer Science Engineering
-- 💻 My website:          [Check me out](http://samtinfo.ch/18colmic/)
-- 📧 My email:	          **michea.colautti@student.supsi.ch**
+<details>
+  <summary><b>2023</b></summary>
 
-- 🍎 Love Apple ecosystem 
-- 🦾 Half man half robot 
-- 🍺 I only drink beer on days that ends in **y** 
+[![Pianificazione Presentazioni Progetti](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=PianificazionePresentazioniProgetti&theme=radical)](https://github.com/MicheaColautti/PianificazionePresentazioniProgetti)  
+[![Gestione Campo Estivo V2](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=GestioneCampoEstivoV2&theme=radical)](https://github.com/MicheaColautti/GestioneCampoEstivoV2)  
 
+</details>
 
-<hr>
+<details>
+  <summary><b>2022</b></summary>
 
-## Some stats
+[![Gestione Campo Estivo](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=GestioneCampoEstivo&theme=radical)](https://github.com/MicheaColautti/GestioneCampoEstivo)  
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MicheaColautti&theme=radical)
+</details>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MicheaColautti&theme=radical&show_icons=true&include_all_commits=true&)
+<details>
+  <summary><b>2021</b></summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MicheaColautti&layout=compact&theme=radical&show_icons=true&langs_count=10)
+[![Drone2.0](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=Drone-2.0&theme=radical)](https://github.com/MicheaColautti/Drone2.0)  
 
+</details>
 
+<details>
+  <summary><b>2020</b></summary>
+
+[![Drone](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=Drone&theme=radical)](https://github.com/MicheaColautti/Drone)  
+
+</details>
+
+---
+
+## 📚 Original Projects (with [LuMug](https://github.com/LuMug))
+
+- [Drone](https://github.com/LuMug/Drone)  
+- [Drone2.0](https://github.com/LuMug/Drone-2.0)  
+
+---
+
+## 👤 About Me 
+
+- 🎓 **Bachelor Computer Science Engineering** @ SUPSI - DTI Viganello  
+- 📧 Email: **michea.colautti@student.supsi.ch**  
+
+- 🍎 Love Apple ecosystem  
+- 🦾 Half man half robot  
+- 🍺 I only drink beer on days that end in **y**  
+
+---
+
+## 📊 Some Stats  
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MicheaColautti&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MicheaColautti&theme=radical&show_icons=true&include_all_commits=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MicheaColautti&layout=compact&theme=radical&langs_count=10)  
