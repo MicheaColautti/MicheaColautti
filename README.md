@@ -11,7 +11,6 @@
 
 [![DataScience-Prog2](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=WalletWithSolidPod-PerkPocket)](https://github.com/MicheaColautti/DataScience-Prog1/settings)
 
-[![DataScience-Prog2](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=WebAppCardStore)](https://github.com/MicheaColautti/DataScience-Prog1/settings)
 
 [![DataScience-Prog2](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=WebAppCardStore)](https://github.com/MicheaColautti/DataScience-Prog1/settings)
 
