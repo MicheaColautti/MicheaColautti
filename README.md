@@ -2,26 +2,29 @@
 
 ## 🔧 Current project
 
-
-
-- MineSweeper
-- WebApp - Card Store
-- DataScience-Prog2
 - Jarvis
-
 
 
 ## 👨🏼‍💻 Developed 
 
 ##### 2025
 
-- Wallet with SolidPod
+[![DataScience-Prog2](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=WalletWithSolidPod-PerkPocket)](https://github.com/MicheaColautti/DataScience-Prog1/settings)
 
-[![DataScience-Prog1](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=DataScience-Prog1)](https://github.com/MicheaColautti/DataScience-Prog1/settings)
+[![DataScience-Prog2](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=WebAppCardStore)](https://github.com/MicheaColautti/DataScience-Prog1/settings)
+
+[![DataScience-Prog2](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=WebAppCardStore)](https://github.com/MicheaColautti/DataScience-Prog1/settings)
+
+[![DataScience-Prog2](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=MineSweeper)](https://github.com/MicheaColautti/DataScience-Prog1/settings)
+
+[![DataScience-Prog2](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=DataScience-Proj2)](https://github.com/MicheaColautti/DataScience-Prog1/settings)
+
+[![DataScience-Prog1](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=DataScience-Proj1)](https://github.com/MicheaColautti/DataScience-Prog1/settings)
 
 [![Movie Sats](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=MovieStat)](https://github.com/MicheaColautti/MovieStat/settings)
 
 ##### 2024
+
 [![Monitoraggio luce ambientale](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=MonitoraggioLuceAmbientale)](https://github.com/MicheaColautti/MonitoraggioLuceAmbientale)
 
 [![Figure panini](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=FigurePanini)](https://github.com/MicheaColautti/FigurePanini/settings)
@@ -29,8 +32,9 @@
 [![Dino Run and jump](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=dino-run-and-jump)](https://github.com/MicheaColautti/dino-run-and-jump)
 
 - Jarvis
- 
 
+- Monopoly Ascii
+ 
 
 ##### 2023 
 [![Pianificazione Presentazioni Progetti](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=PianificazionePresentazioniProgetti)](https://github.com/MicheaColautti/PianificazionePresentazioniProgetti)
