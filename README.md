@@ -27,8 +27,6 @@ A personal favourite: a modern wallet manager built on SolidPod.
 [![DataScience-Proj1](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=DataScience-Proj1&theme=radical)](https://github.com/MicheaColautti/DataScience-Proj1)  
 [![MovieStat](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=MovieStat&theme=radical)](https://github.com/MicheaColautti/MovieStat)  
 
-
-
 **2024**
 
 [![Monitoraggio luce ambientale](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=MonitoraggioLuceAmbientale&theme=radical)](https://github.com/MicheaColautti/MonitoraggioLuceAmbientale)  
