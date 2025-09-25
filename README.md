@@ -18,14 +18,15 @@ A personal favourite: a modern wallet manager built on SolidPod.
 
 **2025**
 
-[![WebAppCardStore](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=WebAppCardStore&theme=radical)](https://github.com/MicheaColautti/WebAppCardStore) 
+[![WebAppCardStore](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=WebAppCardStore&theme=radical)](https://github.com/MicheaColautti/WebAppCardStore)
 
-[![MineSweeper](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=MineSweeper&theme=radical)](https://github.com/MicheaColautti/MineSweeper) 
+[![MineSweeper](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=MineSweeper&theme=radical)](https://github.com/MicheaColautti/MineSweeper)
 
-[![DataScience-Proj2](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=DataScience-Proj2&theme=radical)](https://github.com/MicheaColautti/DataScience-Proj2) 
+[![DataScience-Proj2](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=DataScience-Proj2&theme=radical)](https://github.com/MicheaColautti/DataScience-Proj2)
 
-[![DataScience-Proj1](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=DataScience-Proj1&theme=radical)](https://github.com/MicheaColautti/DataScience-Proj1)  
-[![MovieStat](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=MovieStat&theme=radical)](https://github.com/MicheaColautti/MovieStat)  
+[![DataScience-Proj1](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=DataScience-Proj1&theme=radical)](https://github.com/MicheaColautti/DataScience-Proj1)
+
+[![MovieStat](https://github-readme-stats.vercel.app/api/pin/?username=MicheaColautti&repo=MovieStat&theme=radical)](https://github.com/MicheaColautti/MovieStat)
 
 **2024**
 
