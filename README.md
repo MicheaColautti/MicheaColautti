@@ -93,10 +93,8 @@ Original versions developed with [LuMug](https://github.com/LuMug):
 
 - 🎓 **Bachelor Computer Science Engineering** @ SUPSI - DTI Viganello
 - 📧 **michea.colautti@student.supsi.ch**
-
 - 🍎 Love the Apple ecosystem
-- 🦾 Half man, half robot
-- 🍺 I only drink beer on days that end in **y**
+- 🥃 I only drink whiskey on days that end in **y**
 
 ---
 
