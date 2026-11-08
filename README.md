@@ -2,7 +2,11 @@
 
 ## 🚀 Current Project
 
-- **Jarvis**
+### 🏟️ LiveSportArena
+
+A unified sports platform bringing together Alpine Ski World Cup and Swiss National League hockey, featuring live results, schedules, standings, statistics, and interactive event pages.
+
+[![LiveSportArena](https://github-stats-extended.vercel.app/api/pin/?username=MicheaColautti&repo=LiveSportArena&theme=radical)](https://github.com/MicheaColautti/LiveSportArena)
 
 ---
 
@@ -16,6 +20,24 @@ A personal favourite: a modern wallet manager built on SolidPod.
 ---
 
 ## 👨🏼‍💻 Other Projects
+
+### 2026
+
+**⛷️ 3DSkiTracks — Interactive Ski Course Atlas**
+
+Part of LiveSportArena. Interactive 3D visualizations of Alpine Ski World Cup courses, featuring terrain models, race routes, points of interest, and multiple viewing modes.
+
+[![3DSkiTracks](https://github-stats-extended.vercel.app/api/pin/?username=MicheaColautti&repo=3DSkiTracks&theme=radical)](https://github.com/MicheaColautti/3DSkiTracks)
+
+**🏒 National League Analytics — Machine Learning**
+
+A SUPSI university project focused on Swiss National League hockey analytics and predictive models for match outcomes and goals. Also part of the LiveSportArena ecosystem.
+
+[![NationalLeaguePredicton](https://github-stats-extended.vercel.app/api/pin/?username=MicheaColautti&repo=NationalLeaguePredicton&theme=radical)](https://github.com/MicheaColautti/NationalLeaguePredicton)
+
+**💻 Mingit**
+
+A 2026 project.
 
 ### 2025
 
