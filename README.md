@@ -83,10 +83,6 @@ A personal favourite: a modern wallet manager built on SolidPod.
 
 [![Monitoraggio luce ambientale](https://github-stats-extended.vercel.app/api/pin/?username=MicheaColautti&repo=MonitoraggioLuceAmbientale&theme=radical)](https://github.com/MicheaColautti/MonitoraggioLuceAmbientale)
 
----
-
-## 🏫 SAMT Projects
-
 ### 2024
 
 [![Figure Panini](https://github-stats-extended.vercel.app/api/pin/?username=MicheaColautti&repo=FigurePanini&theme=radical)](https://github.com/MicheaColautti/FigurePanini)
@@ -95,12 +91,13 @@ A personal favourite: a modern wallet manager built on SolidPod.
 
 [![Dino Run and Jump](https://github-stats-extended.vercel.app/api/pin/?username=MicheaColautti&repo=dino-run-and-jump&theme=radical)](https://github.com/MicheaColautti/dino-run-and-jump)
 
-- Jarvis
 
-<details>
-  <summary><b>2023</b></summary>
+---
 
-<br>
+## 🏫 SAMT Projects
+
+
+
 
 [![Pianificazione Presentazioni Progetti](https://github-stats-extended.vercel.app/api/pin/?username=MicheaColautti&repo=PianificazionePresentazioniProgetti&theme=radical)](https://github.com/MicheaColautti/PianificazionePresentazioniProgetti)
 
@@ -145,6 +142,13 @@ Original versions developed with [LuMug](https://github.com/LuMug):
 - [Drone2.0](https://github.com/LuMug/Drone-2.0)
 
 ---
+
+## 💻 Some other projects
+- Jarvis
+
+
+---
+
 
 ## 👤 About Me
 
